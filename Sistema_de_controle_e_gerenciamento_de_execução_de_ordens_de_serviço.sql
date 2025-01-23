@@ -1,3 +1,6 @@
+-- Criação do Banco de Dados
+CREATE DATABASE OficinaMecanica;
+
 -- Tabela Cliente
 CREATE TABLE Cliente (
     ID_Cliente INT PRIMARY KEY AUTO_INCREMENT,
