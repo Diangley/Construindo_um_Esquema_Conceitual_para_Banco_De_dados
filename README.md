@@ -74,9 +74,6 @@ Este projeto descreve o modelo conceitual para um sistema de controle e gerencia
 -- Criação do Banco de Dados
 CREATE DATABASE OficinaMecanica;
 
--- Usar o Banco de Dados
-USE OficinaMecanica;
-
 -- Tabela Cliente
 CREATE TABLE Cliente (
     ID_Cliente INT PRIMARY KEY AUTO_INCREMENT,
